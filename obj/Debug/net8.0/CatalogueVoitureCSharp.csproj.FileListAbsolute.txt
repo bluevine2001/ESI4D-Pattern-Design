@@ -1,0 +1,14 @@
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/bin/Debug/net8.0/CatalogueVoitureCSharp
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/bin/Debug/net8.0/CatalogueVoitureCSharp.deps.json
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/bin/Debug/net8.0/CatalogueVoitureCSharp.runtimeconfig.json
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/bin/Debug/net8.0/CatalogueVoitureCSharp.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/bin/Debug/net8.0/CatalogueVoitureCSharp.pdb
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.AssemblyInfoInputs.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.AssemblyInfo.cs
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.csproj.CoreCompileInputs.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/refint/CatalogueVoitureCSharp.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.pdb
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/CatalogueVoitureCSharp.genruntimeconfig.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/obj/Debug/net8.0/ref/CatalogueVoitureCSharp.dll

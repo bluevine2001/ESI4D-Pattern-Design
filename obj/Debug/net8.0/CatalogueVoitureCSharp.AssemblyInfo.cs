@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatalogueVoitureCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b08ed833d8d9a6c82286ff7d43fffc82c80464e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatalogueVoitureCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatalogueVoitureCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

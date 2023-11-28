@@ -1,0 +1,14 @@
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/bin/Debug/net8.0/Composite
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/bin/Debug/net8.0/Composite.deps.json
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/bin/Debug/net8.0/Composite.runtimeconfig.json
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/bin/Debug/net8.0/Composite.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/bin/Debug/net8.0/Composite.pdb
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.AssemblyInfoInputs.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.AssemblyInfo.cs
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.csproj.CoreCompileInputs.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/refint/Composite.dll
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.pdb
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/Composite.genruntimeconfig.cache
+/Users/oussamabechichi/Projets_web/CatalogueVoitureCSharp/Composite/Composite/obj/Debug/net8.0/ref/Composite.dll

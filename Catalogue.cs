@@ -133,3 +133,94 @@ class ScooterElectrique : Scooter
 
     }
 }
+
+// génération liasse véhicule pdf ou html
+
+class Vendeur {
+    public void Construit(){
+        ConstructeurLiasseVehicule constructeur;
+        string choix = "html";
+        if(choix == "html"){
+            constructeur = new ConstructeurLiasseVehiculeHtml();
+        } else {
+            constructeur = new ConstructeurLiasseVehiculePdf();
+        }
+        Client client = new Client();
+        client.Construit(this, constructeur);
+    }
+
+    public void Construit(ConstructeurLiasseVehicule constructeur){
+        constructeur.ConstruitBonDeCommande("Bon de commande client");
+        constructeur.ConstruitDemandeImmatriculation("Demande d'immatriculation client");
+    }
+
+}
+
+public abstract class ConstructeurLiasseVehicule {
+    protected Liasse? liasse;
+    public abstract void ConstruitBonDeCommande(string nomClient);
+
+    public abstract void ConstruitDemandeImmatriculation(string nomDemandeur);
+
+    public Liasse? Resultat(){
+        return liasse;
+    }
+}
+
+class ConstructeurLiasseVehiculePdf : ConstructeurLiasseVehicule {
+    public override void ConstruitBonDeCommande(string nomClient){
+
+    }
+
+    public override void ConstruitDemandeImmatriculation(string nomDemandeur){
+
+    }
+}
+
+class ConstructeurLiasseVehiculeHtml : ConstructeurLiasseVehicule {
+    public override void ConstruitBonDeCommande(string nomClient){
+
+    }
+
+    public override void ConstruitDemandeImmatriculation(string nomDemandeur){
+
+    }
+}
+
+public abstract class Liasse {
+    public abstract void AjouteDocument(string document);
+
+    public abstract void Imprime();
+}
+
+class LiasseHtml : Liasse {
+    public override void AjouteDocument(string document){
+
+    }
+
+    public override void Imprime(){
+
+    }
+
+}
+
+class LiassePdf : Liasse {
+    public override void AjouteDocument(string document){
+
+    }
+
+    public override void Imprime(){
+
+    }
+
+}
+class Client {
+    public void Construit(Vendeur vendeur, ConstructeurLiasseVehicule constructeur){
+        vendeur.Construit(constructeur);
+        Liasse? liasse = constructeur.Resultat();
+        if (liasse != null)
+        {
+            liasse.Imprime();
+        }
+    }
+}
